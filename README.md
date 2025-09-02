@@ -15,7 +15,8 @@
 ### 💻 Linguagens e Tecnologias que eu conheço:
 
 <p align="left">
-   <!-- Linguagens -->
+   
+      <!-- Linguagens -->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -25,14 +26,17 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
    <img src="https://nestjs.com/img/logo-small.svg" width="40" title="NestJS"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
    
    <!-- Web -->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
    
-   <!-- Ferramentas -->
+   <!-- Cloud / Ferramentas -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+
 
 </p>
 
@@ -53,9 +57,9 @@
 
 ### 🚀 Alguns fatos sobre mim:
 
-- 🌱 Atualmente aprendendo: TypeScript e DevOps  
+- 🌱 Atualmente aprendendo: NestJS  
 - 🛠️ Gosto de construir projetos práticos e brincar com APIs  
-- 🤓 Faço parte da comunidade de código aberto  
+- 🤓 Gosto de quebrar a cabeça com bugs 
 - 🎯 Sempre buscando melhorar minhas habilidades e aprender coisas novas  
 
 ---
