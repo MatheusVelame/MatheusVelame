@@ -60,19 +60,10 @@
 
 ---
 
-### 🌍 Onde me encontrar:
 
-<p>
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
+   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150" />
+  <br/>
   Feito com ❤️ e um pouco de café ☕
 </p>
