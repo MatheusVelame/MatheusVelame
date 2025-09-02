@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedor(a) apaixonado(a) por transformar café ☕ em código 👨‍💻</b>
+  <b>Desenvolvedor apaixonado por transformar café ☕ em código 👨‍💻</b>
 </p>
 
 ---
