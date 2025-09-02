@@ -28,9 +28,13 @@
 
 ### 📊 Estatísticas do GitHub:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusVelame&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusVelame&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVelame&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
